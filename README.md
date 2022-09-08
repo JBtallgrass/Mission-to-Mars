@@ -2,7 +2,7 @@
 ## Mod 10 challenge
 ______________________________________________________
 ## Overview
-The assignment was to assist in creating a website for the client to meet a requirement to collect data on Mars. 
+The assignment was to assist in creating a website for the client to meet a requirement to collect data regarding the planet Mars. 
 _______________________________________________________
 ## Purpose 
 This assignment was to become familiar with the capabilities of webscraping with Html/CSS by utlizing the following tools: 
